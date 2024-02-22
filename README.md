@@ -1,4 +1,4 @@
-# socailPopUpBox
+# socialPopUpBox
 - 👋 Hi, I’m Ashraful Islam Mahim
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Javascript
